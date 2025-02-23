@@ -1,8 +1,45 @@
-# React + Vite
+# Quantum and Blockchain Books Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React** app with **Tailwind CSS** that lets you browse and add books to a library. The app displays books as cards, including title, author, summary, and external links. Data is stored in `localStorage` to persist between sessions.
 
-Currently, two official plugins are available:
+## Features
+- Responsive design (adjusts layout based on screen size)
+- View books in a card layout with title, author, and summary
+- Add new books to the library
+- Data stored in `localStorage` to persist changes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React**
+- **Tailwind CSS**
+- **React Router**
+- **localStorage**
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/quantum-books-library.git
+
+2. Install dependencies:
+cd quantum-books-library
+npm install
+3. Start the app:
+   npm start
+4. Open http://localhost:3000 in your browser.
+
+Usage
+Browse books displayed as cards
+Add new books via the "Add Book" form
+Book data persists in localStorage
+Contributing
+Fork this repository
+Create a new branch
+Make your changes and create a pull request
+License
+MIT License. See LICENSE.
+
+Acknowledgments
+React: React
+Tailwind CSS: Tailwind CSS
+React Router: React Router
+
