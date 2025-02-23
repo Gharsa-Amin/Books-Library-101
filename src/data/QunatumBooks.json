@@ -1,0 +1,194 @@
+[
+    {
+    "id": 1,
+    "image": "",
+    "title": "The Fabric of Reality",
+    "author": "David Deutsch", 
+    "summary": "An extraordinary and challenging synthesis of ideas uniting Quantum Theory, and the theories of Computation, Knowledge and Evolution, Deutsch's extraordinary book explores the deep connections between these strands which reveal the fabric of realityin which human actions and ideas play essential roles.", 
+    "Link": "https://www.amazon.ca/Fabric-Reality-David-Deutsch/dp/0140146903?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3DWYIK6Y9EEQB"
+    },
+    {
+    "id": 2,
+    "image": "",
+    "title": "Physics and Philosophy: The Revolution in Modern Science,",
+    "author": "Werner Heisenberg", 
+    "summary":"A brilliant scientist whose ideas altered our perception of the universe, Heisenberg is considered the father of quantum physics; he is most famous for the Uncertainty Principle, which states that quantum particles do not occupy a fixed, measurable position.", 
+    "Link": "https://www.amazon.ca/Physics-Philosophy-Revolution-Modern-Science/dp/0061209198/ref=sr_1_1?crid=2AD3UHGGCWKJ&dib=eyJ2IjoiMSJ9.RCzNWyb1zG-p2aSFwPWeVZVcvWFVEYp7BnGR_lGlY0q04GoIFmUq0vf2FMn6lovUjZm0H4HHY5wFZmKSK7toJ5iSwRgVscz99PLvoNyq3ydkMgUsauOFTPNizjZJAPV8gAtEQoe6rjMC6Zlh-tnIkZSSZVfTQooExRIC8UaTZt1jfusLjHmJtDo_agkEsNnOyH89mbYsh7UFUWGw1im7qSiVJUQbmBWeJXJ1xEHnDUQ.Qy_LLzmhpuONc_D7LSepV7ccTIDmE9EsY83MeKiLEac&dib_tag=se&keywords=Physics+and+Philosophy%3A+The+Revolution+in+Modern+Science%2C&qid=1740239942&s=books&sprefix=physics+and+philosophy+the+revolution+in+modern+science%2C%2Cstripbooks%2C340&sr=1-1"
+    }, 
+    {
+        "id": 3,
+        "image": "",
+        "title": "Decoding Reality: The Universe as Quantum Information",
+        "author": "Werner Heisenberg", 
+        "summary": "He describes the bizarre effects of quantum behaviour - effects such as entanglement, which Einstein called spooky action at a distance, and explores cutting edge work on harnessing quantum effects in hyperfast quantum computers", 
+        "Link": "https://www.amazon.ca/Decoding-Reality-Universe-Quantum-Information/dp/0198815433/ref=sr_1_1?crid=38F7ZT509K821&dib=eyJ2IjoiMSJ9.ut5JDHR3ezltRVsQRE5itNspFjAy_FK_gzer5WnGmuia7GeHVl2-F0n43ZP2yOFj.8ddLrgezYkTh0KsVhDfnK6qnMe93mZ7LPOsK3gOcPkM&dib_tag=se&keywords=Decoding+Reality%3A+The+Universe+as+Quantum+Information&qid=1740240286&s=books&sprefix=decoding+reality+the+universe+as+quantum+information%2Cstripbooks%2C170&sr=1-1"
+    }, 
+    {
+        "id": 4,
+        "image": "",
+        "title": "Introduction to Classic and Quantum computing",
+        "author": "Thomas G. Wong", 
+        "summary": "Introduction to Classical and Quantum Computing is for students who want to learn quantum computing beyond a conceptual level, but who lack advanced training in mathematics", 
+        "Link": "https://www.google.com/search?q=Introduction+to+Classic+and+Quantum+computing+by+Thomas+G.+Wong&oq=Introduction+to+Classic+and+Quantum+computing+by+Thomas+G.+Wong&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQczNTlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#vhid=sAZeazyv8ochRM:&vssid=l:~:text=https%3A//m.media%2Damazon.com/images/I/61GECDLRXmL._AC_UF894%2C1000_QL80_.jpg" 
+ }, 
+    {
+        "id": 5,
+        "image": "",
+        "title": "Introduction to Quantum Mechanics",
+        "author": "David Griffiths", 
+        "summary": "Changes and additions to the new edition of this classic textbook include a new chapter on symmetries, new problems and examples, improved explanations, more numerical problems to be worked on a computer, new applications to solid state physics, and consolidated treatment of time-dependent potentials.", 
+        "Link": "https://www.amazon.ca/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632"
+    }, 
+    {
+        "id": 6,
+        "image": "",
+        "title": "Quantum Computer Science",
+        "author": "N. David Mermin", 
+        "summary": "This book is a concise introduction to quantum computation, developing the basic elements of this new branch of computational theory without assuming any background in physics.", 
+        "Link": "https://www.amazon.ca/Quantum-Computer-Science-David-Mermin/dp/0521876583"
+    }, 
+    {
+        "id": 7,
+        "image": "",
+        "title": "Quantum Computing Since Democritus",
+        "author": "Scott Aaronson"
+    }, 
+    {
+        "id": 8,
+        "image": "",
+        "title": "Circuit QED: Superconducting Qubits Coupled to Microwave Photons",
+        "author": "Steven M. Girvin"
+    }, 
+    {
+        "id": 9,
+        "image": "",
+        "title": "Quantum Computation and Quantum Information",
+        "author": "Isaac Chuang and Michael Nielsen"
+    }, 
+    {
+        "id":10 ,
+        "image": "",
+        "title": "The Quantum Spy",
+        "author": "David Ignatius"
+    }, 
+    {
+        "id": 11,
+        "image": "",
+        "title": "Six Ideas That Shaped Physics",
+        "author": "Thomas A. Moore"
+    }, 
+    {
+        "id": 12,
+         "image": "",
+        "title": "The Strange World of Quantum Mechanics",
+        "author": "Daniel F. Styer"
+    }, 
+    {
+        "id": 13,
+        "image": "",
+        "title": "Quantum Physics, What Everyone Needs to Know",
+        "author": "Michael G. Raymer"
+    }, 
+    {
+        "id": 14,
+        "image": "",
+        "title": "Totally Random, Why Nobody Understands Quantum Mechanics",
+        "author": "Tanya Bub and Jeffrey Bub"
+    }, 
+    {
+        "id": 15 ,
+        "image": "",
+        "title": "The Amazing Story of Quantum Mechanics",
+        "author": "James Kakalios"
+    }, 
+    {
+        "id": 16,
+        "image": "",
+        "title": "An Introduction to Quantum Computing",
+        "author": "Phillip Kaye, Raymond LaFlamme and Michele Mosca"
+    }, 
+    {
+        "id": 17,
+        "image": "",
+        "title": "Modern Quantum Mechanics",
+        "author": "JJ Sakurai"
+    }, 
+    {
+        "id": 18,
+        "image": "",
+        "title": "The Second Creation", 
+        "author": "Rober P. Crease & Charles C. Mann"
+    }, 
+    {
+        "id":19 ,
+        "image": "",
+        "title": "Picturing Quantum Processes", 
+        "author": "Bob Coecke and Aleks Kissinger"
+    }, 
+    {
+        "id": 20,
+        "image": "",
+        "title": "Verdades y mentiras de la física cuántica", 
+        "author": "Carlos Sabin"
+    }, 
+    {
+        "id": 21,
+        "image": "",
+        "title": "Wholeness and the Implicate Order", 
+        "author": "David Bohm"
+    }, 
+    {
+        "id": 22,
+        "image": "",
+        "title": "Cracking quantum physics", 
+        "author": "Brian clegg"
+    }, 
+    {
+        "id": 23 ,
+        "image": "",
+        "title": "Quantum computing", 
+        "author": "Thomas Wong"
+    }, 
+    {
+        "id": 24,
+        "image": "",
+        "title": "Physics and Philosophy", 
+        "author": "Werner Hesenberg"
+    }, 
+    {
+        "id": 25,
+        "image": "",
+        "title": "The Theory of Quantum Information", 
+        "author": "John Watrous"
+    }, 
+    {
+        "id": 26,
+        "image": "",
+        "title": "Quantum Mechanics and Path Integrals", 
+        "author": "Feynman & Hibbs"
+    }, 
+    {
+        "id": 27,
+        "image": "",
+        "title": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit", 
+        "author": "Keeper Layne Sharkey and Alain Chancé"
+    }, 
+    {
+        "id": 28,
+        "image": "",
+        "title": "The Science of Can and Cant", 
+        "author": "Chiara Marletto"
+    },
+    {
+        "id": 29,
+        "image": "",
+        "title": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit", 
+        "author": "Keeper Layne Sharkey and Alain Chancé"
+    },
+    {
+        "id": 30,
+        "image": "",
+        "title": "Decoding Reality: The Universe as Quantum Information", 
+        "author": "Vlatko Vedral"
+    }
+]

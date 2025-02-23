@@ -1,0 +1,53 @@
+[
+    {
+    "id": 1,
+    "title": "Blockchain Bubble or Revolution?",
+    "author": "Neel Mehta, Aditya Agashe, and Parth Detroja"
+    }, 
+    {
+        "id": 2,
+        "title": "Blockchain Revolution",
+        "author": "Don Tapscott and Alex Tapscott "
+        }, 
+        {
+            "id": 3,
+            "title": "Blockchain for Dummies",
+            "author": "Tiana Laurence "
+            }, 
+            {
+                "id": 4,
+                "title": "Blockchain Basis 2019",
+                "author": "Bradley Lakeman"
+                }, 
+                {
+                    "id": 5,
+                    "title": "Blockchain: The Next Internet Technology",
+                    "author": "Melanie S"
+                    }, 
+                    {
+                        "id": 6,
+                        "title": "he Business Blockchain: Promise, Practice, and Application of the Next Internet Technology",
+                        "author": "William Mougayar"
+                        }, 
+                        {
+                            "id": 7,
+                            "title": "Blockchain Basics: A Non-Technical Introduction in 25 Steps",
+                            "author": "Daniel Drescher"
+                            }, 
+
+                            {
+                                "id": 8,
+                                "title": "The Blockchain Developer",
+                                "author": "Eli Elad Elrom"
+                                }, 
+                                {
+                                    "id": 9,
+                                    "title": "The Internet of Money",
+                                    "author": "Andreas M. Antonopoulos"
+                                    }, 
+                                    {
+                                        "id": 10,
+                                        "title": "Bitcoin: WhitePaper",
+                                        "author": "Satoshi Nakamoto"
+                                        }
+]
