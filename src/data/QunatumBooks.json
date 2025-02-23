@@ -1,7 +1,7 @@
 [
     {
     "id": 1,
-    "image": "",
+    "image": "The fabric of reality.webp", 
     "title": "The Fabric of Reality",
     "author": "David Deutsch", 
     "summary": "An extraordinary and challenging synthesis of ideas uniting Quantum Theory, and the theories of Computation, Knowledge and Evolution, Deutsch's extraordinary book explores the deep connections between these strands which reveal the fabric of realityin which human actions and ideas play essential roles.", 
@@ -9,7 +9,7 @@
     },
     {
     "id": 2,
-    "image": "",
+    "image": "Physics and Philosophy.jpg",
     "title": "Physics and Philosophy: The Revolution in Modern Science,",
     "author": "Werner Heisenberg", 
     "summary":"A brilliant scientist whose ideas altered our perception of the universe, Heisenberg is considered the father of quantum physics; he is most famous for the Uncertainty Principle, which states that quantum particles do not occupy a fixed, measurable position.", 
@@ -17,15 +17,15 @@
     }, 
     {
         "id": 3,
-        "image": "",
+        "image": "Decoding Reality.jpg",
         "title": "Decoding Reality: The Universe as Quantum Information",
-        "author": "Werner Heisenberg", 
-        "summary": "He describes the bizarre effects of quantum behaviour - effects such as entanglement, which Einstein called spooky action at a distance, and explores cutting edge work on harnessing quantum effects in hyperfast quantum computers", 
+        "author": "Vlatko Vedral", 
+        "summary": "In this engaging and mind-stretching account, Vlatko Vedral considers some of the deepest questions about the Universe and considers the implications of interpreting it in terms of information.", 
         "Link": "https://www.amazon.ca/Decoding-Reality-Universe-Quantum-Information/dp/0198815433/ref=sr_1_1?crid=38F7ZT509K821&dib=eyJ2IjoiMSJ9.ut5JDHR3ezltRVsQRE5itNspFjAy_FK_gzer5WnGmuia7GeHVl2-F0n43ZP2yOFj.8ddLrgezYkTh0KsVhDfnK6qnMe93mZ7LPOsK3gOcPkM&dib_tag=se&keywords=Decoding+Reality%3A+The+Universe+as+Quantum+Information&qid=1740240286&s=books&sprefix=decoding+reality+the+universe+as+quantum+information%2Cstripbooks%2C170&sr=1-1"
     }, 
     {
         "id": 4,
-        "image": "",
+        "image": "Introduction to Classic and Quantum computing.jpg",
         "title": "Introduction to Classic and Quantum computing",
         "author": "Thomas G. Wong", 
         "summary": "Introduction to Classical and Quantum Computing is for students who want to learn quantum computing beyond a conceptual level, but who lack advanced training in mathematics", 
@@ -33,7 +33,7 @@
  }, 
     {
         "id": 5,
-        "image": "",
+        "image": "Introduction to Quantum Mechanics.jpg",
         "title": "Introduction to Quantum Mechanics",
         "author": "David Griffiths", 
         "summary": "Changes and additions to the new edition of this classic textbook include a new chapter on symmetries, new problems and examples, improved explanations, more numerical problems to be worked on a computer, new applications to solid state physics, and consolidated treatment of time-dependent potentials.", 
@@ -41,7 +41,7 @@
     }, 
     {
         "id": 6,
-        "image": "",
+        "image": "Quantum Computer Science- An Introduction.jpg",
         "title": "Quantum Computer Science",
         "author": "N. David Mermin", 
         "summary": "This book is a concise introduction to quantum computation, developing the basic elements of this new branch of computational theory without assuming any background in physics.", 
@@ -49,146 +49,171 @@
     }, 
     {
         "id": 7,
-        "image": "",
+        "image": "Quantum Computing Since Democritus.jpg",
         "title": "Quantum Computing Since Democritus",
-        "author": "Scott Aaronson"
+        "author": "Scott Aaronson", 
+        "summary": "This book takes readers on a tour through some of the deepest ideas of maths, computer science and physics.", 
+        "Link": "https://www.amazon.ca/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565"
     }, 
     {
         "id": 8,
-        "image": "",
+        "image": "Circuit QED.jpg",
         "title": "Circuit QED: Superconducting Qubits Coupled to Microwave Photons",
-        "author": "Steven M. Girvin"
+        "author": "Steven M. Girvin", 
+        "summary": "This chapter introduces the basic concepts of quantum information processing with superconducting quantum circuits.", 
+        "Link": "https://boulderschool.yale.edu/sites/default/files/files/Girvin_CQED_LES_HOUCHES.pdf"
     }, 
     {
         "id": 9,
-        "image": "",
+        "image": "Quantum Computation and Quantum Information.jpg",
         "title": "Quantum Computation and Quantum Information",
-        "author": "Isaac Chuang and Michael Nielsen"
+        "author": "Isaac Chuang and Michael Nielsen", 
+        "summary":"This comprehensive textbook describes such remarkable effects as fast quantum algorithms, quantum teleportation, quantum cryptography, and quantum error", 
+        "Link": "https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176"
     }, 
     {
         "id":10 ,
-        "image": "",
+        "image": "The Quantum Spy.jpg",
         "title": "The Quantum Spy",
-        "author": "David Ignatius"
+        "author": "David Ignatius", 
+        "summary": "From the best-selling author of The Director and Body of Lies comes a thrilling tale of global espionage, state-of-the-art technology, and unthinkable betrayal.", 
+        "Link": "https://www.amazon.ca/Quantum-Spy-Thriller-David-Ignatius/dp/0393254151"
     }, 
     {
         "id": 11,
-        "image": "",
+        "image": "Six Ideas That Shaped Physics.jpg",
         "title": "Six Ideas That Shaped Physics",
-        "author": "Thomas A. Moore"
+        "author": "Thomas A. Moore", 
+        "summary": "Thomas Moore designed SIX IDEAS to teach students: --to apply basic physical principles to realistic situations --to solve realistic problems --to resolve contradictions between their preconceptions and the laws of physics --to organize the ideas of physics into an integrated hierarchy.", 
+        "Link": "https://www.amazon.ca/Six-Ideas-That-Shaped-Physics/dp/0077395689"
     }, 
     {
         "id": 12,
-         "image": "",
+         "image": "The Strange World of Quantum Mechanics.jpg",
         "title": "The Strange World of Quantum Mechanics",
-        "author": "Daniel F. Styer"
+        "author": "Daniel F. Styer", 
+        "summary": "This is an exceptionally accessible, accurate, and nontechnical introduction to quantum mechanics. After briefly summarizing the differences between classical and quantum behavior, this engaging account considers the Stern-Gerlach experiment and its implications, treats the concepts of probability, and then discusses the Einstein-Podolsky-Rosen paradox and Bell's theorem.", 
+        "Link": "https://www.amazon.ca/Strange-World-Quantum-Mechanics/dp/0521667801"
     }, 
     {
         "id": 13,
-        "image": "",
+        "image": "Quantum Physics, What Everyone Needs to Know.jpg",
         "title": "Quantum Physics, What Everyone Needs to Know",
-        "author": "Michael G. Raymer"
+        "author": "Michael G. Raymer",
+        "summary": "The book tackles questions as broad as the definition of a quantum state and as specific and timely as why the British government plans to spend 270 million GBP on quantum technology research in the next five years. ",
+        "Link": "https://www.amazon.ca/Quantum-Physics-What-Everyone-Needs/dp/0190250712"
     }, 
     {
         "id": 14,
-        "image": "",
+        "image": "Totally Random, Why Nobody Understands Quantum Mechanics.jpg",
         "title": "Totally Random, Why Nobody Understands Quantum Mechanics",
-        "author": "Tanya Bub and Jeffrey Bub"
+        "author": "Tanya Bub and Jeffrey Bub", 
+        "summary": "Totally Random is a comic for the serious reader who wants to really understand the central mystery of quantum mechanics entanglement, what it is, what it means, and what you can do with it.", 
+        "Link": "https://www.amazon.ca/Totally-Random-Understands-Mechanics-Entanglement/dp/0691176957"
     }, 
     {
         "id": 15 ,
-        "image": "",
+        "image": "The Amazing Story of Quantum Mechanics.jpg",
         "title": "The Amazing Story of Quantum Mechanics",
-        "author": "James Kakalios"
+        "author": "James Kakalios", 
+        "summary": "A highly entertaining exploration of the complicated science of quantum mechanics made easy to understand by way of pop culture.",
+        "Link": "https://www.amazon.ca/Amazing-Story-Quantum-Mechanics-Exploration/dp/1592406726"
     }, 
     {
         "id": 16,
-        "image": "",
+        "image": "An Introduction to Quantum Computing.jpg",
         "title": "An Introduction to Quantum Computing",
-        "author": "Phillip Kaye, Raymond LaFlamme and Michele Mosca"
+        "author": "Phillip Kaye, Raymond LaFlamme and Michele Mosca", 
+        "summary": "A highly entertaining exploration of the complicated science of quantum mechanics made easy to understand by way of pop culture.", 
+        "Link": "https://www.amazon.ca/Amazing-Story-Quantum-Mechanics-Exploration/dp/1592406726"
     }, 
     {
         "id": 17,
-        "image": "",
+        "image": "Modern Quantum Mechanics.jpg",
         "title": "Modern Quantum Mechanics",
-        "author": "JJ Sakurai"
+        "author": "JJ Sakurai", 
+        "summary": "Modern Quantum Mechanics is a classic graduate level textbook, covering the main concepts from quantum mechanics in a clear, organized and engaging manner.", 
+        "Link": "https://www.amazon.ca/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229"
+        
     }, 
     {
         "id": 18,
-        "image": "",
+        "image": "The Second Creation.jpg",
         "title": "The Second Creation", 
-        "author": "Rober P. Crease & Charles C. Mann"
+        "author": "Rober P. Crease & Charles C. Mann", 
+        "summary": "The Second Creation is a dramatic--and human--chronicle of scientific investigators at the last frontier of knowledge.", 
+        "Link": "https://www.amazon.ca/Second-Creation-Revolution-Twentieth-Century-Physics/dp/0813521777"
     }, 
     {
         "id":19 ,
-        "image": "",
+        "image": "Picturing Quantum Processes.jpg",
         "title": "Picturing Quantum Processes", 
-        "author": "Bob Coecke and Aleks Kissinger"
+        "author": "Bob Coecke and Aleks Kissinger", 
+        "summary": "The unique features of the quantum world are explained in this book through the language of diagrams, setting out an innovative visual method for presenting complex theories.", 
+        "Link": "https://www.amazon.ca/Picturing-Quantum-Processes-Diagrammatic-Reasoning/dp/110710422X"
     }, 
     {
         "id": 20,
-        "image": "",
+        "image": "Verdades y mentiras de la física cuántica.jpeg",
         "title": "Verdades y mentiras de la física cuántica", 
-        "author": "Carlos Sabin"
+        "author": "Carlos Sabin", 
+        "summary": "In this work, Carlos Sabín attempts to disprove the most common erroneous beliefs and myths surrounding quantum physics, placing special emphasis on demonstrating that it is not something mysterious and incomprehensible", 
+        "Link": "https://www.amazon.es/Verdades-mentiras-f%C3%ADsica-cu%C3%A1ntica-sabemos/dp/8490979235"
     }, 
     {
         "id": 21,
-        "image": "",
+        "image": "Wholeness and the Implicate Order.jpg",
         "title": "Wholeness and the Implicate Order", 
-        "author": "David Bohm"
+        "author": "David Bohm", 
+        "summary": "In this classic work he develops a theory of quantum physics which treats the totality of existence as an unbroken whole.", 
+        "Link": "https://www.amazon.ca/Wholeness-Implicate-Order-David-Bohm/dp/0415289785"
     }, 
     {
         "id": 22,
-        "image": "",
+        "image": "Cracking quantum physics.jpg",
         "title": "Cracking quantum physics", 
-        "author": "Brian clegg"
+        "author": "Brian clegg", 
+        "summary": "Enter the invisible world of sub-atomic physics and discover the very core of existence. Cracking Quantum Physics takes you through every area of particle physics to clearly explain how our world was, and is, created, and breaks down the most complex theories into easily understandable elements.", 
+        "Link": "https://www.amazon.ca/Cracking-Quantum-Physics-Brian-Clegg/dp/1844039498"
     }, 
     {
         "id": 23 ,
-        "image": "",
-        "title": "Quantum computing", 
-        "author": "Thomas Wong"
+        "image": "Introduction to Classic and Quantum computing.jpg",
+        "title": "Introduction to Classical and Quantum Computing", 
+        "author": "Thomas Wong", 
+        "summary": "ntroduction to Classical and Quantum Computing is for students who want to learn quantum computing beyond a conceptual level, but who lack advanced training in mathematics.", 
+        "Link": "https://www.amazon.ca/Introduction-Classical-Quantum-Computing-Thomas/dp/B09QP2ML3P"
     }, 
     {
         "id": 24,
-        "image": "",
-        "title": "Physics and Philosophy", 
-        "author": "Werner Hesenberg"
+        "image": "The Theory of Quantum Information.jpg",
+        "title": "The Theory of Quantum Information", 
+        "author": "John Watrous", 
+        "summary": "This largely self-contained book on the theory of quantum information focuses on precise mathematical formulations and proofs of fundamental facts that form the foundation of the subject.", 
+        "Link": "https://www.amazon.ca/Theory-Quantum-Information-John-Watrous/dp/1107180562"
     }, 
     {
         "id": 25,
-        "image": "",
-        "title": "The Theory of Quantum Information", 
-        "author": "John Watrous"
+        "image": "Quantum Mechanics and Path Integrals.jpg",
+        "title": "Quantum Mechanics and Path Integrals", 
+        "author": "Feynman & Hibbs", 
+        "summary": "With its clear explanations, comprehensive coverage, and contributions from renowned physicists, Quantum Mechanics and Path Integrals is an indispensable resource for students, professionals, and anyone interested in understanding the path integral technique and its applications in modern physics.", 
+        "Link": "https://www.amazon.ca/Quantum-Mechanics-Path-Integrals-Emended/dp/0486477223"
     }, 
     {
         "id": 26,
-        "image": "",
-        "title": "Quantum Mechanics and Path Integrals", 
-        "author": "Feynman & Hibbs"
+        "image": "Quantum Chemistry and Computing for the Curious- Illustrated with Python and Qiskit.jpg",
+        "title": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit", 
+        "author": "Keeper Layne Sharkey and Alain Chancé", 
+        "summary": "Acquire knowledge of quantum chemistry concepts, the postulates of quantum mechanics, and the foundations of quantum computing, and execute illustrations made with Python code, Qiskit, and open-source quantum chemistry packages", 
+        "Link": "https://www.amazon.ca/Quantum-Chemistry-Computing-Curious-Illustrated/dp/1803243902"
     }, 
     {
         "id": 27,
-        "image": "",
-        "title": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit", 
-        "author": "Keeper Layne Sharkey and Alain Chancé"
-    }, 
-    {
-        "id": 28,
-        "image": "",
+        "image": "The Science of Can and Cant.jpg",
         "title": "The Science of Can and Cant", 
-        "author": "Chiara Marletto"
-    },
-    {
-        "id": 29,
-        "image": "",
-        "title": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit", 
-        "author": "Keeper Layne Sharkey and Alain Chancé"
-    },
-    {
-        "id": 30,
-        "image": "",
-        "title": "Decoding Reality: The Universe as Quantum Information", 
-        "author": "Vlatko Vedral"
+        "author": "Chiara Marletto", 
+        "Link": "https://www.amazon.ca/Science-Can-Cant-Physicists-Counterfactuals/dp/0525521925", 
+        "summary": "A luminous guide to how the radical new science of counterfactuals can reveal that the scope of the universe is greater, and more beautiful, than we ever imagined."
     }
 ]

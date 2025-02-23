@@ -1,53 +1,67 @@
 [
     {
     "id": 1,
+    "image": "Blockchain Bubble or Revolution.jpg", 
     "title": "Blockchain Bubble or Revolution?",
-    "author": "Neel Mehta, Aditya Agashe, and Parth Detroja"
+    "author": "Neel Mehta, Aditya Agashe, and Parth Detroja", 
+    "summary": "Authored by Silicon Valley leaders from Google, Microsoft, and Facebook, Bubble or Revolution cuts through the hype to offer a balanced, comprehensive, and accessible analysis of blockchains and cryptocurrencies.",
+    "Link": "https://www.amazon.ca/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150"
     }, 
     {
         "id": 2,
+        "image": "Blockchain Revolution.jpg", 
         "title": "Blockchain Revolution",
-        "author": "Don Tapscott and Alex Tapscott "
+        "author": "Don Tapscott and Alex Tapscott ", 
+        "summary": "In this revelatory book, Don Tapscott, the bestselling author of Wikinomics, and his son, blockchain expert Alex Tapscott, bring us a brilliantly researched, highly readable, and essential book about the technology driving the future of the economy. ", 
+        "Link": "https://www.amazon.ca/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133"
         }, 
         {
             "id": 3,
+            "image": "Blockchain for Dummies.jpg", 
             "title": "Blockchain for Dummies",
-            "author": "Tiana Laurence "
+            "author": "Tiana Laurence ", 
+            "summary": "ockchain For Dummies covers the essential things you need to know about this exciting technology's promise of revolutionizing financial transactions, data security, and information integrity.", 
+            "Link": "https://www.amazon.ca/Blockchain-Dummies-Tiana-Laurence/dp/1119365597"
             }, 
             {
                 "id": 4,
+                "image": "Blockchain Basis 2019.jpg", 
                 "title": "Blockchain Basis 2019",
-                "author": "Bradley Lakeman"
+                "author": "Bradley Lakeman", 
+                "summary": "Blockchain Basics 2019: The New Updated Investing Bible for Cryptocurrency Economy, Trading, Investment, Mining (Ethereum, Ripple, Bitcoin)", 
+                "Link": "https://www.amazon.com/Blockchain-Basics-2019-Cryptocurrency-Investment/dp/1985051664"
                 }, 
                 {
                     "id": 5,
-                    "title": "Blockchain: The Next Internet Technology",
-                    "author": "Melanie S"
-                    }, 
-                    {
-                        "id": 6,
-                        "title": "he Business Blockchain: Promise, Practice, and Application of the Next Internet Technology",
-                        "author": "William Mougayar"
-                        }, 
+                    "image": "The Business Blockchain- Promise, Practice, and Application of the Next Internet Technology .jpg", 
+                    "title": "The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology",
+                    "author": "William Mougayar", 
+                    "summary": "The Business Blockchain charts new territory in advancing our understanding of the blockchain by unpacking its elements like no other before.", 
+                    "Link": "https://www.amazon.ca/Business-Blockchain-Practice-Application-Technology/dp/1119300312"
+                    },  
                         {
                             "id": 7,
+                            "image": "Blockchain Basics- A Non-Technical Introduction in 25 Steps.jpg", 
                             "title": "Blockchain Basics: A Non-Technical Introduction in 25 Steps",
-                            "author": "Daniel Drescher"
+                            "author": "Daniel Drescher", 
+                            "summary": "In 25 concise steps, you will learn the basics of blockchain technology. No mathematical formulas, program code, or computer science jargon are used.", 
+                            "Link": "https://www.amazon.ca/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038"
                             }, 
 
                             {
                                 "id": 8,
+                                "image": "The Blockchain Developer.jpg", 
                                 "title": "The Blockchain Developer",
-                                "author": "Eli Elad Elrom"
+                                "author": "Eli Elad Elrom", 
+                                "summary": "The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects", 
+                                "Link":"https://www.amazon.ca/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465"
                                 }, 
                                 {
                                     "id": 9,
+                                    "image": "The Internet of Money.jpg", 
                                     "title": "The Internet of Money",
-                                    "author": "Andreas M. Antonopoulos"
-                                    }, 
-                                    {
-                                        "id": 10,
-                                        "title": "Bitcoin: WhitePaper",
-                                        "author": "Satoshi Nakamoto"
-                                        }
+                                    "author": "Andreas M. Antonopoulos", 
+                                    "summary": "While many books explain the how of bitcoin, The Internet of Money delves into the why of bitcoin.", 
+                                    "Link": "https://www.amazon.ca/Internet-Money-collection-Andreas-Antonopoulos/dp/1537000454"
+                                    }
 ]
