@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import BookList from "./component/BookList/BookList";
 import BlockchainBookList from "./component/BookListBlockchain/BookListBlockchain";
 import Home from "./component/Home/Home";
+//come back to apply the toggle to enable dark/light mode.
 
 function App() {
 	return (
