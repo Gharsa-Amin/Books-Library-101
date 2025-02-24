@@ -6,7 +6,6 @@ import { Link } from "react-router-dom";
 export default function BookList() {
 	const [books, setBooks] = useState([]);
 
-	// Set the books state directly from the imported JSON data
 	useEffect(() => {
 		setBooks(booksData);
 	}, []);
@@ -15,14 +14,13 @@ export default function BookList() {
 		const updatedBooks = [...books, newBook];
 		setBooks(updatedBooks);
 
-		// Save the updated book list to localStorage
 		localStorage.setItem("books", JSON.stringify(updatedBooks));
 	};
 
 	return (
 		<>
 			<Link to="/Quantum Books">
-				<h2 className="text-2xl font-semibold text-center mt-6">
+				<h2 className="text-2xl text-[#0f334d] font-semibold text-center mt-6">
 					Quantum Books
 				</h2>
 			</Link>
@@ -58,45 +56,3 @@ export default function BookList() {
 		</>
 	);
 }
-
-// import React, { useEffect, useState } from "react";
-// import AddBook from "../AddBook/AddBook";
-
-// export default function BookList() {
-// 	const [books, setBooks] = useState([]);
-
-// 	useEffect(() => {
-// 		// Check localStorage for saved books
-// 		const savedBooks = localStorage.getItem("books");
-// 		if (savedBooks) {
-// 			setBooks(JSON.parse(savedBooks));
-// 		}
-// 	}, []); // This runs only once when the component mounts
-
-// 	const addBook = (newBook) => {
-// 		const updatedBooks = [...books, newBook];
-// 		setBooks(updatedBooks);
-
-// 		// Save the updated book list to localStorage
-// 		localStorage.setItem("books", JSON.stringify(updatedBooks));
-// 	};
-
-// 	return (
-// 		<>
-// 			<h2>Quantum Books</h2>
-// 			<AddBook addBook={addBook} />
-// 			<ul>
-// 				{books.length > 0 ? (
-// 					books.map((book) => (
-// 						<li key={book.id}>
-// 							<div>Title: {book.title}</div>
-// 							<div>Author:{book.author}</div>
-// 						</li>
-// 					))
-// 				) : (
-// 					<p>No books available</p>
-// 				)}
-// 			</ul>
-// 		</>
-// 	);
-// }
