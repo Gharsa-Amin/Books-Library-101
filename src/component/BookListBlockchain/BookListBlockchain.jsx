@@ -46,7 +46,7 @@ export default function BlockchainBookList() {
 									rel="noopener noreferrer"
 									className="block"
 								>
-									<button className="w-full bg-[#fcd535] hover:bg-blue-700 text-white font-medium py-2 px-4 rounded transition-colors duration-300">
+									<button className="w-full bg-sky-500 hover:bg-sky-700 text-white font-medium py-2 px-4 rounded transition-colors duration-300">
 										View Book Details
 									</button>
 								</a>
