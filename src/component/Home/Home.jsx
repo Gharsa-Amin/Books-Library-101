@@ -45,16 +45,48 @@ export default function Home() {
 						</svg>
 					</div>
 				</div>
-				<p className=" flex justify-center ">
+				<p className=" flex justify-center italic pt-6">
 					Continue reading the books and immerse yourself in the world of
 					blockchain and quantum!
 				</p>
-				<div className="flex justify-evenly">
+				<div className="flex justify-evenly pt-16">
 					<Link to="/QuantumBooks">
 						<button>Quantum Books</button>
+						<div className="flex justify-center">
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								fill="none"
+								viewBox="0 0 24 24"
+								strokeWidth={1.5}
+								stroke="currentColor"
+								className="size-6"
+							>
+								<path
+									strokeLinecap="round"
+									strokeLinejoin="round"
+									d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25"
+								/>
+							</svg>
+						</div>
 					</Link>
 					<Link to="/BlockchainBooks">
 						<button>Blockchain Books</button>
+						<div className="flex justify-center">
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								fill="none"
+								viewBox="0 0 24 24"
+								strokeWidth={1.5}
+								stroke="currentColor"
+								className="size-6"
+							>
+								<path
+									strokeLinecap="round"
+									strokeLinejoin="round"
+									d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25"
+								/>
+							</svg>
+						</div>
 					</Link>
 				</div>
 
@@ -75,8 +107,8 @@ export default function Home() {
 							</button>
 						</div>
 					</div>
-					<p className="flex justify-center ">
-						I built the website, if you would like to collaborate, or have
+					<p className="flex justify-center">
+						I built this Library, if you would like to collaborate, or have
 						openings available, please take a look at my resume!
 					</p>
 				</div>
