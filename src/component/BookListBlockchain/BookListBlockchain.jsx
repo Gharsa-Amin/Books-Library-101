@@ -20,6 +20,23 @@ export default function BlockchainBookList() {
 			<h2 className="text-3xl text-[#0f334d] font-bold text-center mb-12 mt-12">
 				Blockchain Blocks
 			</h2>
+			<button className="border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700">
+				Start Reading
+			</button>
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				fill="none"
+				viewBox="0 0 24 24"
+				strokeWidth={1.5}
+				stroke="currentColor"
+				className="size-6 "
+			>
+				<path
+					strokeLinecap="round"
+					strokeLinejoin="round"
+					d="m4.5 4.5 15 15m0 0V8.25m0 11.25H8.25"
+				/>
+			</svg>
 			{books.length > 0 ? (
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 shadow-sm">
 					{books.map((book) => (

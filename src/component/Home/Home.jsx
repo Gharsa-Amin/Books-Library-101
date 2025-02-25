@@ -15,29 +15,75 @@ export default function Home() {
 					</h2>
 				</div>
 				<div className="pt-20 sm:pt-40 flex flex-col sm:flex-row justify-evenly items-center">
-					<div className="sm:w-1/2 -rotate-45">
+					<div className="sm:w-1/2 md:-rotate-45">
 						<img src="./Hero-Quantum-Blocks.png" />
 					</div>
-					<p className="content-right md:rotate-45 pt-30 animate-rotate-around">
+					<p className="content-right w-60 ">
 						Let's make quantum decentralized and let's blockchain secure, beyond
 						just the 0s, and 1s. The goal behind this website is to start
 						creating paths for quantum and blockchain to work together.
 					</p>
 				</div>
 				<div>
-					<h2>Keep The Story Going....</h2>
-					<p>
-						Continue reading the books and immerse yourself in the world of
-						blockchain and quantum!
-					</p>
-					<button>Start Reading</button>
+					<h2 className="pt-44 text-3xl text-[#0f334d]">
+						Keep The Story Going....
+					</h2>
+					<div className="flex justify-center pt-3">
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							fill="none"
+							viewBox="0 0 24 24"
+							strokeWidth={1.5}
+							stroke="currentColor"
+							className="size-6"
+						>
+							<path
+								strokeLinecap="round"
+								strokeLinejoin="round"
+								d="M19.5 13.5 12 21m0 0-7.5-7.5M12 21V3"
+							/>
+						</svg>
+					</div>
 				</div>
-				<Link to="/QuantumBooks">
-					<h2>Quantum Books</h2>
-				</Link>
-				<Link to="/BlockchainBooks">
-					<h2>Blockchain Books</h2>
-				</Link>
+				<p className=" flex justify-center ">
+					Continue reading the books and immerse yourself in the world of
+					blockchain and quantum!
+				</p>
+				<div className="flex justify-evenly">
+					<Link to="/QuantumBooks">
+						<button>Quantum Books</button>
+					</Link>
+					<Link to="/BlockchainBooks">
+						<button>Blockchain Books</button>
+					</Link>
+				</div>
+
+				<div className="pt-60">
+					<div className="flex justify-center content-center flex-col gap-2 p-8 sm:flex-row sm:items-center sm:gap-6 sm:py-4 ...">
+						<img
+							className="mx-auto block h-24 rounded-full sm:mx-0 sm:shrink-0"
+							src="./Headshot.jpg"
+							alt=""
+						/>
+						<div className="space-y-2 text-center sm:text-left">
+							<div className="space-y-0.5">
+								<p className="text-lg font-semibold text-black">Gharsa Amin</p>
+								<p className="font-medium text-gray-500">Software Engineer</p>
+							</div>
+							<button className="border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700 ...">
+								resume
+							</button>
+						</div>
+					</div>
+					<p className="flex justify-center ">
+						I built the website, if you would like to collaborate, or have
+						openings available, please take a look at my resume!
+					</p>
+				</div>
+				{/* <p className=" flex justify-center w-20 md:rotate-45 pt-30 animate-rotate-around ">
+					Continue reading the books and immerse yourself in the world of
+					blockchain and quantum!
+				</p> */}
 			</section>
 		</>
 	);
