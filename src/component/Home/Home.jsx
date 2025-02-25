@@ -18,7 +18,7 @@ export default function Home() {
 					<div className="sm:w-1/2 -rotate-45">
 						<img src="./Hero-Quantum-Blocks.png" />
 					</div>
-					<p className="content-right md:rotate-45 pt-30">
+					<p className="content-right md:rotate-45 pt-30 animate-rotate-around">
 						Let's make quantum decentralized and let's blockchain secure, beyond
 						just the 0s, and 1s. The goal behind this website is to start
 						creating paths for quantum and blockchain to work together.
