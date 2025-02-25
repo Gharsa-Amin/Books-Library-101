@@ -45,21 +45,22 @@ export default function Home() {
 						</svg>
 					</div>
 				</div>
-				<p className=" flex justify-center italic pt-6">
-					Continue reading the books and immerse yourself in the world of
-					blockchain and quantum!
+				<p className="flex justify-center italic pt-6">
+					Continue reading the books and immerse yourself in the world of x and
+					x!
 				</p>
-				<div className="flex justify-evenly pt-16">
-					<Link to="/QuantumBooks">
-						<button>Quantum Books</button>
-						<div className="flex justify-center">
+
+				<div className="flex flex-col items-center sm:flex-row sm:justify-evenly pt-16">
+					<Link to="/BlockchainBooks" className="flex flex-col items-center">
+						<button className="text-lg font-semibold">Blockchain Books</button>
+						<div className="flex justify-center mt-2">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								fill="none"
 								viewBox="0 0 24 24"
 								strokeWidth={1.5}
 								stroke="currentColor"
-								className="size-6"
+								className="h-6 w-6"
 							>
 								<path
 									strokeLinecap="round"
@@ -69,16 +70,16 @@ export default function Home() {
 							</svg>
 						</div>
 					</Link>
-					<Link to="/BlockchainBooks">
-						<button>Blockchain Books</button>
-						<div className="flex justify-center">
+					<Link to="/QuantumBooks" className="flex flex-col items-center">
+						<button className="text-lg font-semibold">Qunatum Books</button>
+						<div className="flex justify-center mt-2">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								fill="none"
 								viewBox="0 0 24 24"
 								strokeWidth={1.5}
 								stroke="currentColor"
-								className="size-6"
+								className="h-6 w-6"
 							>
 								<path
 									strokeLinecap="round"
@@ -90,28 +91,48 @@ export default function Home() {
 					</Link>
 				</div>
 
-				<div className="pt-60">
-					<div className="flex justify-center content-center flex-col gap-2 p-8 sm:flex-row sm:items-center sm:gap-6 sm:py-4 ...">
+				{/* Book Image */}
+				<div className="flex justify-center pt-8 px-4 sm:px-8">
+					<img
+						className="w-full max-w-2xl h-auto"
+						src="./Books.png"
+						alt="Books"
+					/>
+				</div>
+
+				{/* Profile Section */}
+				<div className="pt-8 sm:pt-16">
+					<div className="flex flex-col items-center gap-6 sm:flex-row sm:items-center sm:justify-center p-6">
 						<img
 							className="mx-auto block h-24 rounded-full sm:mx-0 sm:shrink-0"
 							src="./Headshot.jpg"
-							alt=""
+							alt="Gharsa Amin"
 						/>
 						<div className="space-y-2 text-center sm:text-left">
 							<div className="space-y-0.5">
 								<p className="text-lg font-semibold text-black">Gharsa Amin</p>
 								<p className="font-medium text-gray-500">Software Engineer</p>
 							</div>
-							<button className="border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700 ...">
-								resume
+
+							<button className="border border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700 px-4 py-2 rounded-md">
+								<a
+									href="/gharsa-amin_2025.pdf"
+									className="text-inherit"
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									Resume
+								</a>
 							</button>
 						</div>
 					</div>
-					<p className="flex justify-center">
+
+					<p className="flex justify-center mt-6">
 						I built this Library, if you would like to collaborate, or have
 						openings available, please take a look at my resume!
 					</p>
 				</div>
+
 				{/* <p className=" flex justify-center w-20 md:rotate-45 pt-30 animate-rotate-around ">
 					Continue reading the books and immerse yourself in the world of
 					blockchain and quantum!
