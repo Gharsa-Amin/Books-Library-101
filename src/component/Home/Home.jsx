@@ -19,9 +19,9 @@ export default function Home() {
 						<img src="./Hero-Quantum-Blocks.png" />
 					</div>
 					<p className="content-right w-60 pt-4 ">
-						Let's make quantum decentralized and let's blockchain secure, beyond
-						just the 0s, and the 1s. The goal behind this website is to start
-						creating paths for quantum and blockchain to work together.
+						Let's make quantum decentralized and let's make blockchain secure,
+						beyond just the 0s, and the 1s. The goal behind this website is to
+						start creating paths for quantum and blockchain to work together.
 					</p>
 				</div>
 				<div>
