@@ -47,7 +47,7 @@ export default function Home() {
 				</div>
 				<p className="flex justify-center italic pt-6">
 					Continue reading the books and immerse yourself in the world of
-					Qunatum and Blockchain!
+					quantum and Blockchain!
 				</p>
 
 				<div className="flex flex-col items-center sm:flex-row sm:justify-evenly pt-16">
