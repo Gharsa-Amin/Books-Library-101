@@ -18,14 +18,14 @@ export default function Home() {
 					<div className="sm:w-1/2 md:-rotate-45">
 						<img src="./Hero-Quantum-Blocks.png" />
 					</div>
-					<p className="content-right w-60 ">
+					<p className="content-right w-60 pt-4 ">
 						Let's make quantum decentralized and let's blockchain secure, beyond
-						just the 0s, and 1s. The goal behind this website is to start
+						just the 0s, and the 1s. The goal behind this website is to start
 						creating paths for quantum and blockchain to work together.
 					</p>
 				</div>
 				<div>
-					<h2 className="pt-44 text-3xl text-[#0f334d]">
+					<h2 className=" sm: pt-16 md:pt-44 text-3xl text-[#0f334d]">
 						Keep The Story Going....
 					</h2>
 					<div className="flex justify-center pt-3">
@@ -46,8 +46,8 @@ export default function Home() {
 					</div>
 				</div>
 				<p className="flex justify-center italic pt-6">
-					Continue reading the books and immerse yourself in the world of x and
-					x!
+					Continue reading the books and immerse yourself in the world of
+					Qunatum and Blockchain!
 				</p>
 
 				<div className="flex flex-col items-center sm:flex-row sm:justify-evenly pt-16">

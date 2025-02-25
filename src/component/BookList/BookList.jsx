@@ -19,6 +19,25 @@ export default function BookList() {
 
 	return (
 		<>
+			<div className="flex justify-center">
+				<Link to="/">
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						fill="none"
+						viewBox="0 0 24 24"
+						strokeWidth={1.5}
+						stroke="currentColor"
+						className="size-6"
+					>
+						<path
+							strokeLinecap="round"
+							strokeLinejoin="round"
+							d="M6.75 15.75 3 12m0 0 3.75-3.75M3 12h18"
+						/>
+					</svg>
+				</Link>{" "}
+			</div>
+
 			<Link to="/Quantum Books">
 				<h2 className="text-2xl text-[#0f334d] font-semibold text-center mt-6">
 					Quantum Books
