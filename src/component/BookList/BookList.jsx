@@ -30,29 +30,42 @@ export default function BookList() {
 					books.map((book) => (
 						<div
 							key={book.id}
-							className="bg-white p-4 rounded-lg shadow-lg flex flex-col items-center"
+							className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 flex flex-col"
 						>
 							<img
 								src={book.image}
 								alt={book.title}
-								className="w-32 h-48 object-cover mb-4 rounded-md"
+								className="w-full h-48 object-cover"
 							/>
-							<div className="text-xl font-semibold mb-2">{book.title}</div>
-							<div className="text-sm text-gray-600 mb-2">{book.author}</div>
-							<div className="text-sm text-gray-500 mb-4">{book.summary}</div>
-							<a href={book.Link} target="_blank" rel="noopener noreferrer">
-								<button className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600">
-									Link to the Webpage
-								</button>
-							</a>
+							<div className="flex flex-col p-6 flex-grow">
+								<h3 className="text-xl font-semibold mb-2 text-[#0f334d]">
+									{book.title}
+								</h3>
+								<p className="text-[#e03a50]">Author: {book.author}</p>
+								<p className="text-gray-700 mb-4 italic font-light line-clamp-3 flex-grow">
+									{book.summary}
+								</p>
+								<div className="mt-auto">
+									<a
+										href={book.Link}
+										target="_blank"
+										rel="noopener noreferrer"
+										className="block"
+									>
+										<button className="w-full bg-sky-500 hover:bg-sky-700 text-white font-medium py-2 px-4 rounded transition-colors duration-300">
+											View Book Details
+										</button>
+									</a>
+								</div>
+							</div>
 						</div>
 					))
 				) : (
-					<p>No books available</p>
+					<p className="text-center text-gray-600 text-lg">
+						No books available
+					</p>
 				)}
 			</div>
-
-			<AddBook addBook={addBook} />
 		</>
 	);
 }

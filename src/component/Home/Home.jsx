@@ -113,23 +113,22 @@ export default function Home() {
 								<p className="text-lg font-semibold text-black">Gharsa Amin</p>
 								<p className="font-medium text-gray-500">Software Engineer</p>
 							</div>
-
-							<button className="border border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700 px-4 py-2 rounded-md">
-								<a
-									href="/gharsa-amin_2025.pdf"
-									className="text-inherit"
-									target="_blank"
-									rel="noopener noreferrer"
-								>
+							<a
+								href="/gharsa-amin _2025.pdf"
+								className="text-inherit"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<button className="border border-purple-200 text-purple-600 hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700 px-4 py-2 rounded-md">
 									Resume
-								</a>
-							</button>
+								</button>
+							</a>
 						</div>
 					</div>
 
 					<p className="flex justify-center mt-6">
-						I built this Library, if you would like to collaborate, or have
-						openings available, please take a look at my resume!
+						I built this Library, if you would like to collaborate, or chat!
+						Send me an email.
 					</p>
 				</div>
 
